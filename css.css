@@ -5,3 +5,11 @@
  padding: 5px;
  margin: 0px 10px 10px 0;
 }
+
+.css video{
+ float: right;
+ width: 15%;
+ border: thin solid;
+ padding: 5px;
+ margin: 0px 10px 10px 0;
+}
